@@ -1,5 +1,11 @@
 ** Replit Link
 https://replit.com/@jenna0704/FlaskProject
+*** route: 
+- @app.route('/about')
+- @app.route('/home')
+- @app.route("/lucky")
+- @app.route("/randomEquation")
+- @app.route("/temp_demo")
 
 * Instructions
 

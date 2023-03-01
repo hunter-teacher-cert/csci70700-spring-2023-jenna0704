@@ -3,6 +3,8 @@ https://replit.com/@jenna0704/FlaskProject
 *** route: 
 - @app.route('/about')
 - @app.route('/home')
+- @app.route('/login', methods=['GET', 'POST'])
+- @app.route('/passcode')
 - @app.route("/lucky")
 - @app.route("/randomEquation")
 - @app.route("/temp_demo")

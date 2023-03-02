@@ -5,6 +5,7 @@ https://replit.com/@jenna0704/FlaskProject
 - @app.route('/home')
 - @app.route('/login', methods=['GET', 'POST'])
 - @app.route('/passcode')
+- @app.route('/contact', methods=['GET', 'POST'])
 - @app.route("/lucky")
 - @app.route("/randomEquation")
 - @app.route("/temp_demo")
